@@ -60,7 +60,7 @@ By the end of this course, you will:
 
 **Required Reading:**
 - [PEP 484: Type Hints](https://www.python.org/dev/peps/pep-0484/)
-- [Real Python: Async Python](https://realpython.com/async-io-python/)
+- [Real Python: Async Python](https://realpython.com/ref/glossary/oop/)
 
 **Assignment:**
 - Refactor Phase 1 project with full type hints
