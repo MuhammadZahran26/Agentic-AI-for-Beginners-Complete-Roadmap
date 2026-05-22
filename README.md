@@ -71,20 +71,6 @@ Welcome to the **Complete Roadmap for Learning Agentic AI from Scratch**! This c
 
 ---
 
-## 🛠️ Installation
-
-```bash
-# Clone the repository
-git clone https://github.com/MuhammadZahran26/Agentic-AI-for-Beginners-Complete-Roadmap.git
-
-# Navigate to the project
-cd Agentic-AI-for-Beginners-Complete-Roadmap
-
-# Install dependencies
-pip install -r requirements.txt
-```
-
----
 
 ## 💻 Hands-On Projects
 
