@@ -37,7 +37,7 @@ By the end of this course, you will:
 
 **Required Reading:**
 - [Python Docs: Classes](https://docs.python.org/3/tutorial/classes.html)
-- [Real Python: OOP](https://realpython.com/intro-to-python-object-oriented-programming/)
+- [Real Python: OOP](https://realpython.com/ref/glossary/oop/)
 
 **Assignment:**
 - Create a `Vehicle` class with subclasses `Car` and `Bike`
@@ -60,7 +60,7 @@ By the end of this course, you will:
 
 **Required Reading:**
 - [PEP 484: Type Hints](https://www.python.org/dev/peps/pep-0484/)
-- [Real Python: Async Python](https://realpython.com/ref/glossary/oop/)
+- [Real Python: Async Python](https://realpython.com/python-async-features/)
 
 **Assignment:**
 - Refactor Phase 1 project with full type hints
