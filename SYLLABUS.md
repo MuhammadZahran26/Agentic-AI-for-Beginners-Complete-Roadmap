@@ -44,7 +44,7 @@ By the end of this course, you will:
 - Add 5+ methods demonstrating OOP concepts
 
 **Resources:**
-- Video: [Corey Schafer: Python OOP](https://www.youtube.com/watch?v=ZDa-Z5_ywYg)
+- Video: [Corey Schafer: Python OOP](https://youtu.be/Mf2RdpEiXjU?si=JQLB7x3LgcIZzAhz)
 
 ---
 
