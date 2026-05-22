@@ -153,4 +153,4 @@ The following were considered but excluded due to insufficient authoritative evi
 
 This list is maintained as of **May 22, 2026**. New frameworks and papers are emerging rapidly in agentic AI. Check GitHub stars and publication dates to find the latest authoritative resources.
 
-Contributions of verified sources are welcome via GitHub Issues or PRs!
+Contributions of verified sources are welcome via GitHub Issues or PRs!!
